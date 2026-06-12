@@ -1,1 +1,2 @@
+Product Management leader who uses AI to ship, not just advocate. 10+ years in enterprise B2B SaaS across AI, data, and risk platforms - growing product lines, building customer relationships that hold under pressure, and getting hands-on when it matters, whether that's in the product, with a customer, or in the code.
 [![Sanjay Singh profile views](https://u8views.com/api/v1/github/profiles/18467866/views/day-week-month-total-count.svg)](https://u8views.com/github/sanjayvsingh)
