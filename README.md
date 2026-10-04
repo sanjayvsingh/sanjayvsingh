@@ -1,2 +1,3 @@
 I'm a product leader who writes production code. I've spent over ten years in enterprise B2B SaaS, most recently leading product for AI, data and risk screening platforms at Exiger, where I was the first product manager with code in production. Most of what I ship lives in private work repositories: over 40 pull requests merged since May 2026 across backend, frontend and LLM integration, built with Claude Code and Cursor. What's public here is where I test how far AI can take a project beyond the code itself, including specs, user stories, tests and documentation.
+
 Start with meet-n-eat (https://github.com/sanjayvsingh/meet-n-eat), which picks a restaurant between two points so nobody has to argue about where to meet for dinner.
